@@ -1,7 +1,7 @@
 ![image](https://github.com/Epsilon8854/Epsilon8854/assets/51151412/780ef112-534f-4aaa-b93d-ebadb6baf4ba)### Hi there 👋
 ## Publications
 - AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes **RA-L 2024**, [Project page](https://vision3d-lab.github.io/AiSDF/)
-- A Benchmark Synthetic Dataset for C-SLAM in Service Environments **CVPR 2024 workshop, Long paper Honorable mention** [Project page]([https://vision3d-lab.github.io/AiSDF/](https://github.com/vision3d-lab/CSE_Dataset))
+- A Benchmark Synthetic Dataset for C-SLAM in Service Environments **CVPR 2024 workshop, Long paper Honorable mention** [Project page](https://github.com/vision3d-lab/CSE_Dataset)
 <!--
 **Epsilon8854/Epsilon8854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
