@@ -2,6 +2,7 @@
 ## Publications
 - AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes **RA-L 2024**, [Project page](https://vision3d-lab.github.io/AiSDF/)
 - A Benchmark Synthetic Dataset for C-SLAM in Service Environments **CVPR 2024 workshop, Long paper Honorable mention** [Project page](https://github.com/vision3d-lab/CSE_Dataset)
+A Benchmark Dataset for Collaborative SLAM in Service Environments **RA-L 2024** [Project page](https://github.com/vision3d-lab/CSE_Dataset)
 <!--
 **Epsilon8854/Epsilon8854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
